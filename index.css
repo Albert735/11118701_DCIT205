@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'open sans', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,url(homepic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    width: auto;
+    color: white;
+
+}
+
+
+li{
+    list-style: none;
+}
+
+a{
+   text-decoration: none;
+   color: #ba8f4a;
+   font-size: 1rem; 
+}
+
+a:hover{
+    color: white;
+}
+a:active{
+    color: antiquewhite;
+}
