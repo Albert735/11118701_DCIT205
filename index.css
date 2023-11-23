@@ -33,3 +33,28 @@ a:hover{
 a:active{
     color: antiquewhite;
 }
+
+/*HEADER*/
+.top-header {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}  
+.top-header ul {
+    display: flex;
+    list-style: none;
+    }
+.top-header span{
+    color: #020202;
+}
+.top-header li {
+    margin: 0px 5px;
+}
+.top-header a {
+    color: #222;
+}
+.top-header a:hover{
+    color: #222;
+}
