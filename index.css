@@ -191,71 +191,78 @@ h1{
 
 
 
-
+/* footer */
 footer{
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: auto;
-    background-color: #232559;
-    padding: 60px 10%;
- 
-   }
- 
-   ul{
-     list-style: none;
-   }
-   .footer-col{
-     width:25%
-   }
-  .footer-col h4 {
-     position: relative;
-     margin-bottom: 30px;
-     font-weight: 400;
-     color: #ba8f4a;
-     text-transform: capitalize;
-  }
-  .footer-col h4::before{
-     content: '';
-     position: absolute;
-     left: 0;
-     background-color: aliceblue;
-     bottom: -6px;
-     height: 2px;
-     width: 40px;
-  }
- 
-  ul li::not(:last-child){
-     margin-bottom: 8px;
-  }
- ul li a{
-     display: block;
-     font-size: 19px;
-     text-transform: capitalize;
-     color: #ba8f4a;
-     transition: 0.4s;
-     text-decoration: none;
- }
- ul li a:hover {
-     color: white;
-     padding-left: 2px;
- }
- 
- .link a{
-     display: inline-block;
-     height: 44px;
-     width: 44px;
-     color: azure;
-     background-color: rgba(40, 130, 214, 0.8);
-     margin: 0 8px 8px 0;
-     text-align: center;
-     line-height: 44px;
-     border-radius: 50%;
-     transition: 0.4s;
- }
- .link a:hover{
-     background-color: azure;
-     color: #ba8f4a;
- }
+    background-color: white;
+    color: black;
+       }
+    
+    .footerContainer{
+        width: 100%;
+        padding: 70px 30px 20px;
+    
+    }
+    
+    .socialIcons{
+        display: flex;
+        justify-content: center;
+    }
+     .socialIcons a{
+        text-decoration: none;
+        padding: 20px;
+        background-color: #ba8f4a;
+        margin: 10px;;
+        border-radius: 50px;
+     }
+    
+     .socialIcons a ion-icon{
+        font-size: 1rem;
+        color: white;
+        opacity: 0.9;
+     }
+    
+     /* hover */
+     .socialIcons a:hover{
+        background-color: #232559;
+        transition: 0.5s;
+    
+     }
+    
+     .socialIcons a :hover ion-icon{
+        background-color: #ba8f4a;
+        transition: 0.5s;
+     }
+
+     .footerNav{
+        margin: 30px 0;
+     }
+     .footerNav ul{
+        display: flex;
+        justify-content: center;
+     }
+
+     .footerNav ul li a{
+        color: white;
+        margin: 20px;
+        text-decoration: none;
+        font-size: 1.5rem;
+        opacity: 0.7;
+        transition: 0.5s;
+     }
+
+     .footerNav ul li a:{
+        opacity:1 ;
+     }
+
+     .footerButton{
+        padding: 20px;
+        text-align: center;
+     }
+     .footerButton p{
+        color: white;
+     }
+
+     
  
  @media  (max-width: 740px){
  .footer-col{
