@@ -22,7 +22,7 @@ li{
 }
 
 a{
-   text-decoration: none;
+   /*text-decoration: none;
    color: #ba8f4a;
    font-size: 1rem; 
 }
@@ -32,7 +32,7 @@ a:hover{
 }
 a:active{
     color: antiquewhite;
-}
+}*/
 
 /*HEADER*/
 .top-header {
@@ -59,7 +59,7 @@ a:active{
     color: #222;
 }
 
-nav{
+/*nav{
     background-color:#232559 ;
     display: flex;
     justify-content: space-between;
@@ -168,7 +168,7 @@ nav ul{
     .sidebar{
         width: 100%;
     }
-}
+}*/
 
 
 /*main*/
