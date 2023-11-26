@@ -43,39 +43,6 @@ To deploy this website, follow these steps:
 Customize the content of each page by updating the HTML files in the respective folders. Modify the styles by editing the CSS files. Ensure that images and other assets are placed in the appropriate directories.
 
 
-![Home](<Screenshot 2023-11-26 at 10.36.52 AM.png>) 
-![Home](<Screenshot 2023-11-26 at 10.37.19 AM.png>)
-
-![About](<Screenshot 2023-11-26 at 10.37.53 AM.png>) 
-![About](<Screenshot 2023-11-26 at 10.38.08 AM.png>)
-
-![Research](<Screenshot 2023-11-26 at 10.38.22 AM.png>)
-![Research](<Screenshot 2023-11-26 at 10.38.35 AM.png>)
-![Research](<Screenshot 2023-11-26 at 10.38.48 AM.png>)
-
-![Faculty](<Screenshot 2023-11-26 at 10.39.43 AM.png>) 
-![Faculty](<Screenshot 2023-11-26 at 10.39.54 AM.png>) 
-![Faculty](<Screenshot 2023-11-26 at 10.40.04 AM.png>)
-
-![Academics](<Screenshot 2023-11-26 at 10.41.02 AM.png>)
-![Academics](<Screenshot 2023-11-26 at 10.41.10 AM.png>)
-
-![Contacts](<Screenshot 2023-11-26 at 10.41.27 AM.png>) 
-![Contacts](<Screenshot 2023-11-26 at 10.41.35 AM.png>)
-
-![Alumini](<Screenshot 2023-11-26 at 10.42.44 AM.png>)
-
-![Events](<Screenshot 2023-11-26 at 10.43.27 AM.png>)
-
-
-
-
-
-
-
-![FAQ's](<Screenshot 2023-11-26 at 10.44.14 AM.png>) 
-![FAQ's](<Screenshot 2023-11-26 at 10.44.25 AM.png>)
-
 
 
 
