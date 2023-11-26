@@ -218,6 +218,12 @@ section{
     padding: 100px 20vw ;
 }
 
+section p{
+    font-size: 60px;
+    color: #232559;
+    margin-bottom: 10px;
+}
+
 
 .heading1 h1{
     font-size: 100px;
