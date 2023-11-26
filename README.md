@@ -67,6 +67,8 @@ Customize the content of each page by updating the HTML files in the respective 
 
 ![Events](<Screenshot 2023-11-26 at 10.43.27 AM.png>)
 
+![Contact page](<Screenshot 2023-11-26 at 3.15.20 PM.png>) 
+![Contact page](<Screenshot 2023-11-26 at 3.15.42 PM.png>)
 
 
 
