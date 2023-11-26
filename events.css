@@ -188,30 +188,50 @@ section{
 
 }
 
-.image h1{
-    margin: 0;
-    color: #ba8f4a;
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+ 
+    min-height: 10vh; 
+    margin-top: 20px;
+    box-shadow:-10px 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    align-items: center;
+
+ 
 }
 
-.image p{
+.section4 p{
     font-weight: lighter;
+
+}
+.section4 h4{
+    color: #232559;
+    font-weight: bold;
+
+}
+
+
+.section5 img{
+    height: 80%;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .section1 {
     font-weight: lighter;
 }
 
-.image {
-    display: inline-block;
-    margin-top: 20px;
-    margin-bottom :10%;
 
- 
-}
 .main1 h1{
     font-size: 30px;
     color: #232559;
     margin-bottom: 10px;
+    
   
 }
 
