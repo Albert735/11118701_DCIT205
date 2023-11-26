@@ -48,6 +48,7 @@ Customize the content of each page by updating the HTML files in the respective 
 
 
 
+
 ## Folder Structure
 
 /computer-science-department-website
